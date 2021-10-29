@@ -9,6 +9,26 @@
         <link rel="icon" href="University_of_Mines_and_Technology_logo.jpg">
         <link rel="stylesheet" href="fonts/font-awesome-4.7.0/css/font-awesome.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        
+        <!-- Primary Meta Tags -->
+<title>Student Entrepreneurs Registration</title>
+<meta name="title" content="Student Entrepreneurs Registration">
+<meta name="description" content="This will enable you to digitize your trading, have more customers and make more money">
+        
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://sterumat.herokuapp.com/">
+<meta property="og:title" content="Student Entrepreneurs Registration">
+<meta property="og:description" content="This will enable you to digitize your trading, have more customers and make more money">
+<meta property="og:image" content="">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://sterumat.herokuapp.com/">
+<meta property="twitter:title" content="Student Entrepreneurs Registration">
+<meta property="twitter:description" content="This will enable you to digitize your trading, have more customers and make more money">
+<meta property="twitter:image" content="">
   <script src="js/popper.min.js"></script>
         
   <script src="js/bootstrap.min.js"></script>
