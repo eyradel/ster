@@ -1,6 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+         <?php
+          if(isset($_GET['add']))
+          {
+              $ad_name =htmlentities($_GET['pin']);
+            
+              if($ad_name==0007)
+              {
+                  header("location:real.php");
+                  
+              }
+              else
+              {
+             header("location:index.php");
+             echo "<div class=' card alert alert-warning'>Wrong credentials</div>" ; 
+
+              }
+              
+              
+              
+              
+              
+              
+          }
+          
+          
+          
+          ?>
+
 		<meta charset="utf-8">
 		<meta http-equiv="Content-Type" content="image/svg+xml" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edhe,Chrome=1">
@@ -183,34 +211,7 @@ echo "<div class=' card alert alert-danger'>Order failed to send</div>" ;
               
               ?>
     
-     <?php
-          if(isset($_GET['add']))
-          {
-              $ad_name =htmlentities($_GET['pin']);
-            
-              if($ad_name=="0007")
-              {
-                  header("location:real.php");
-                  
-              }
-              else
-              {
-             header("location:index.php");
-             echo "<div class=' card alert alert-warning'>Wrong credentials</div>" ; 
-
-              }
-              
-              
-              
-              
-              
-              
-          }
-          
-          
-          
-          ?>
-
+    
     <div class=" justify-content-between">
       
   <div class="container" id="con">
