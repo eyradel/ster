@@ -15,6 +15,11 @@
 <meta name="title" content="Student Entrepreneurs Registration">
 <meta name="description" content="This will enable you to digitize your trading, have more customers and make more money">
         
+        
+        <meta property="og:title" content="Student Entrepreneurs Registration" />
+<meta property="og:description" content="This will enable you to digitize your trading, have more customers and make more money" />
+<meta property="og:url" content="https://sterumat.herokuapp.com/" />
+<meta property="og:image" content="https://sterumat.herokuapp.com/University_of_Mines_and_Technology_logo.jpg" />
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
@@ -32,7 +37,7 @@
   <script src="js/popper.min.js"></script>
         
   <script src="js/bootstrap.min.js"></script>
-	<title>SVG</title>
+	<title>Student Enterpreneur Registration</title>
          <script type="text/javascript"
     src="https://kit.fontawesome.com/2641fe0f3e.js"
     crossorigin="anonymous"
