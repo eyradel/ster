@@ -84,9 +84,9 @@ margin-top: 60px;
             {
                 
                 animation: 2s ease-out 0s 1 Fromtop;
-       margin:-50px 0px 0px 0px;
+     
              
-                width: 100%;
+                width: 60%;
                   
                 
             }
@@ -126,8 +126,8 @@ margin-top: 60px;
       <div class="card-body">
             <center><button class="btn btn-outline-danger sticky-top" onclick="window.location.href='index.php';"><i class="fa fa-power-off"></i></button></center>
 
-        <p class="card-text ">
-            <img src="logo.png" class="logo" ></p>
+        <p class="card-text "><center>
+            <img src="University_of_Mines_and_Technology_logo.jpg" class="logo"  ></center></p></center>
            <div class=" input-group">
   
   <input class="form-control card input-md" id="myInput" type="text" placeholder="Search anything...........">
