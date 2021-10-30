@@ -226,8 +226,8 @@ echo "<div class=' card alert alert-danger'>Order failed to send</div>" ;
             </h1>
              
             <input type="text" class="card form-control" placeholder="Name: eg.maame esi amoah" name="name" required>
-             <input type="text" class="card form-control" placeholder="location:eg. Nerd Hostel" name="loc" required maxlength="30" min="30" >
-             <input type="tel" class="card form-control" placeholder="054 020 20 96" name="tel" required maxlength="10" min="10">
+             <input type="text" class="card form-control" placeholder="location:eg. Nerd Hostel" name="loc" required >
+             <input type="tel" class="card form-control" placeholder="054 020 20 96" name="tel" required >
           
            <input type="text" class="card form-control" placeholder="Business: eg pizza,wakye" name="trade">
           <input type="text" class="card form-control" placeholder="Index No: 9001346298" name="ind">
